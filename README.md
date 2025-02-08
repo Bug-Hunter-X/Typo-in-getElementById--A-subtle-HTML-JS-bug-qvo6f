@@ -1,0 +1,1 @@
+This repository demonstrates a subtle yet common bug in HTML/JavaScript interaction.  The bug involves a simple typo in accessing an HTML element using JavaScript's `getElementById` method. The corrected version demonstrates the proper usage of the method.  This is a great example of how small errors can cause unexpected behavior in web applications.
